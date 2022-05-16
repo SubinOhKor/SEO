@@ -1,0 +1,4 @@
+https://developers.google.com/speed/pagespeed/insights/
+http://validator.w3.org.
+https://www.google.com/webmasters/tools/mobile-friendly/
+https://simple.wikipedia.org/wiki/Search_engine_optimization#:~:text=From%20Simple%20English%20Wikipedia%2C%20the%20free%20encyclopedia%20Search,pages%20%28SERPS%29%20such%20as%20those%20given%20by%20Google.
